@@ -1,0 +1,26 @@
+
+SCHOOL: BUSINESS
+
+  CLASS         AVERAGE GPA
+FRESHMAN           3.08
+SOPHOMORE          3.47
+JUNIOR             2.42
+SENIOR             3.37
+
+
+SCHOOL: LIBERAL ARTS
+
+  CLASS         AVERAGE GPA
+FRESHMAN           3.02
+SOPHOMORE          3.11
+JUNIOR             3.21
+SENIOR             2.95
+
+
+SCHOOL: ENGINEERING
+
+  CLASS         AVERAGE GPA
+FRESHMAN           3.08
+SOPHOMORE          3.21
+JUNIOR             3.90
+SENIOR             2.47

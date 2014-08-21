@@ -1,0 +1,20 @@
+Record: 01   Invalid class code            
+ 
+Record: 02   Invalid SSN                   
+ 
+Record: 03   Invalid class code            
+ 
+Record: 04   Invalid name                  
+ 
+Record: 05   Invalid school code           
+ 
+Record: 06   Invalid GPA                   
+ 
+ 
+Record: 08   Invalid SSN                   
+Record: 08   Invalid name                  
+Record: 08   Invalid class code            
+Record: 08   Invalid school code           
+Record: 08   Invalid GPA                   
+Record: 08   Invalid number credits        
+ 
