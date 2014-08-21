@@ -10,7 +10,7 @@
       ***************************************************************
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
-           SELECT EMPLOYEE-FILE ASSIGN TO "/home/proxa/cob/C0701"
+           SELECT EMPLOYEE-FILE ASSIGN TO "/home/proxa/doc/cob/c0701"
            ORGANIZATION IS LINE SEQUENTIAL.
            SELECT TERMINAL-OUT  ASSIGN TO DISPLAY
            ORGANIZATION IS LINE SEQUENTIAL.
