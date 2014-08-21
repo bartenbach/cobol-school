@@ -1,0 +1,16 @@
+           TOTAL SALES FOR EACH SALESPERSON
+
+SALESPERSON NO.     SALESPERSON NAME      TOTAL SALES
+
+      01               JOHNSON             $1817.25
+      02               HANSEN                $99.50
+      03               GREENE                $97.50
+      04               BROWN                $950.00
+      05               LOW                  $196.00
+      06               BARRY               $1230.50
+      07               HART                 $775.00
+      08               LARKIN               $155.00
+      19               JONES                $445.75
+      20               BROWNLEE             $486.94
+
+                              TOTAL COMPANY SALES   $6,253.44
