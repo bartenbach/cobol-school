@@ -1,0 +1,4 @@
+cobol-school
+============
+
+COBOL assignments
